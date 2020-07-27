@@ -1,0 +1,30 @@
+{
+  "name": "maniknpm",
+  "version": "1.0.0",
+  "description": "This is my test package ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/manikcloud/AwsCodeArtifact.git"
+  },
+  "keywords": [
+    "aws",
+    "codeartifact",
+    "artifact",
+    "code",
+    "artifact",
+    "varun",
+    "manik",
+    "manik",
+    "varun"
+  ],
+  "author": "Varun Manik",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/manikcloud/AwsCodeArtifact/issues"
+  },
+  "homepage": "https://github.com/manikcloud/AwsCodeArtifact#readme"
+}
